@@ -14,20 +14,28 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgctxt "#30000"
-msgid "All episodes"
-msgstr ""
-
 msgctxt "#30001"
-msgid "Latest episodes"
+msgid "The Breakdown"
 msgstr ""
 
 msgctxt "#30002"
-msgid ""
+msgid "Coindesk Reports"
 msgstr ""
 
 msgctxt "#30003"
-msgid ""
+msgid "Markets Daily"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Money Reimagined"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Mapping Out Eth 2.0"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Hard Problems"
 msgstr ""
 
 # empty string with id 32003
