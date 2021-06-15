@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://art19.com/shows/late-confirmation">CoinDesk Podcast Network</a>.<br>
 
-<img src="https://content.production.cdn.art19.com/images/90/02/1e/e5/90021ee5-ee71-49ec-8dee-4bb74febbe02/6da5837f399bae77fa0e90f94daae54bc1175ea0550ca8f8c388e82efd3349d9e89441d7c9474249e80a216b2f2a9f9a0cf722f8ff53304c06aa16804669ef05.jpeg"width="400" height="400" alt="Coindesk podcast"><br>
+<img src="https://content.production.cdn.art19.com/images/90/02/1e/e5/90021ee5-ee71-49ec-8dee-4bb74febbe02/6da5837f399bae77fa0e90f94daae54bc1175ea0550ca8f8c388e82efd3349d9e89441d7c9474249e80a216b2f2a9f9a0cf722f8ff53304c06aa16804669ef05.jpeg"width="400"  height="400" alt="Coindesk podcast"><br>
 
 The top stories and best shows in the blockchain world, delivered daily from the team at CoinDesk.<br>
 
